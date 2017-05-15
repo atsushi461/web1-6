@@ -1,4 +1,11 @@
-
+.explanation{
+  float: left;
+}
+dt{
+  clear: left;
+  float: left;
+  font-weight: bold;
+}
 
 
 
@@ -41,7 +48,6 @@ tbodey td{
 }
 
 .btn{
-  float: left;
   -webkit-appearance: none;
   -webkit-border-radius: 0;
   margin:5px;
