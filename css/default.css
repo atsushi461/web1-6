@@ -5,6 +5,7 @@
 
 #unit{
   background-color: lightyellow;
+  width: 50px;
 }
 
 tead th, tead td{
@@ -27,8 +28,4 @@ td{
   padding: 5px;
   width: 200px;
   text-align: right;
-}
-
-#unit{
-  width: 50px;
 }
