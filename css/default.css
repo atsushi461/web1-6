@@ -12,9 +12,15 @@ tead th, tead td{
 }
 
 
+th{
+  border: 1px solid lightcoral;
+  padding: 5px;
+  width: 90px;
+  text-align: right;
+}
 td{
   border: 1px solid lightcoral;
   padding: 5px;
-  width: 80px;
+  width: 90px;
   text-align: right;
 }
