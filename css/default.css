@@ -7,23 +7,30 @@
   background-color: lightyellow;
   width: 50px;
 }
+#name{
+  background-color:mistyrose;
+}
 
-tead th, tead td{
-  border: 1px solid lightcoral;
-  background-color: mistyrose;
+thead th{
+  background-color: white;
+}
+
+thead td{
+  color: white;
+  background-color: lightcoral;
   padding: 5px;
   width: 200px;
   text-align: center;
 }
 
 
-th{
+tbody th{
   border: 1px solid lightcoral;
   padding: 5px;
   width: 200px;
   text-align: right;
 }
-td{
+tbodey td{
   border: 1px solid lightcoral;
   padding: 5px;
   width: 200px;
